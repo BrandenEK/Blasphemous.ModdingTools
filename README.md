@@ -1,5 +1,5 @@
 
 # TODO
 
-- Update BlasModInstaller to use new ```.modtools_version``` files
-- Remove the modding-tools-platform.versions files
+- Update BlasModInstaller to use the new ```.modtools_version``` files and download links
+- Remove all legacy files
